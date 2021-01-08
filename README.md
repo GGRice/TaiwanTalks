@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### I have moved to Taiwan!
 
-You can use the [editor on GitHub](https://github.com/GGRice/TaiwanTalks/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Why Blog?
+Over the past few months while working with my pod in Hebron I created a newsletter fo rthe families everyweek. Through that experience I realized the importance of documentation. Not just of projects like I learned at Olin, but of my life! I recieved a lot of gratitude and excitedment from the parents fro sharing this newsletter everyweek and it brought me joy to share with them all. However, it also proved extremely important for me in many ways. 1) It provided wekkly structure. I knew that every Sunday night I had to make time to sit, revist the week, and write about what I thought was most important. 2) It allowed me to reflect on the week. This forced me to remember what we did all week from a more removed percpective. the events ahd already happened, now I was looking back asking myself how I would summarize those experiences and what I may have learned from them. 3) My newsletters are now there for me to look back and actually remember what I did! I always want to journal so that I can look back and see what I was thinking and did and felt but never get into it as much as I would like. Creating a newsletter made this "journal" something that people expected me to share which gave me more motivation to write things down. Now I have documentation of what I did for 5 months of my life during quarantine and I am so happy that I can look back on that.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why Now?
+I am now starting another big chapter of my life. I have moved across the globe and am embarking on a journy of discovery and experiences. I want to keep track of these! I don't have a tight knit community of parents to share the weeks events with, but I do have family and friends. I am hoping this blog will keep me accountable to record what I am doing. Not just what we're doing in the classroom, whcih was the main focus of my newsletter this fall. I want this to be a space for me to unoack and share my thoughts, feelings, and experiences as I fumble through this life.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GGRice/TaiwanTalks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Thank You <3 
+Thank you for joinging me here. I feel your love. I feel your presence. And it is that which pushes me forward and encourages me to go on these adventures. I hope these posts can give you glimpse into my life in Taiwan!
